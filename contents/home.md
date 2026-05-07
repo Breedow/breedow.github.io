@@ -1,11 +1,11 @@
 
 
-[![Breedow](https://img.shields.io/badge/Breedow-github-blue?logo=github)](https://github.com/Breedow)
+[![Breedow](https://img.shields.io/badge/Breedow-github-blue?logo=github)](https://github.com/Breedow/BREEDOW)
 
 
 
 #### Contact
 
-Email: 221124030317@qq.com
+Email: 221124030317@zjut.edu.cn
 
 
