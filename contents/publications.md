@@ -1,3 +1,0 @@
-#### Submitted
-
-#### Published
